@@ -1,0 +1,13 @@
+{
+  "name": "mlm603Test",
+  "version": "1.1.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
